@@ -1,5 +1,5 @@
 # The-Hitchhikers-Guide-to-the-Data-Science
 
-\LARDGE 0. To start a Data Science project
+## 0. Starting a Data Science project
 
-\textbullet How do you start a data science project?
+How do you start a data science project?
