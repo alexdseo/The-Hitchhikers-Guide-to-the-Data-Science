@@ -2,4 +2,4 @@
 
 ## 0. Starting a Data Science project
 
-How do you start a data science project?
+How do you start a data science project? Data science is 
