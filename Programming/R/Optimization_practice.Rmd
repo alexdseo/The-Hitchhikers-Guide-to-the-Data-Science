@@ -362,4 +362,3 @@ legend(x = "right",
 glm(menarche.cases$reached.menarche ~ menarche.cases$age, family = "binomial")$coefficients
 ```
 
-
