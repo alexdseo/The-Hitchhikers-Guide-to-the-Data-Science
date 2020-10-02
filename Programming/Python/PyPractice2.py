@@ -1,4 +1,4 @@
-coffee = 10
+coffee = 5
 while True:
     money = int(input("돈을 넣어 주세요: "))
     if money == 300:
