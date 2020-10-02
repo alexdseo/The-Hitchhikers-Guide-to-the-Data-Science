@@ -1,4 +1,4 @@
-marks = [90, 25, 67, 45, 80]
+marks = [90, 25, 66, 42, 80]
 
 number = 0
 for mark in marks:
