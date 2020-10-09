@@ -12,4 +12,4 @@ Have fun :)
 
 ## 0. Starting a Data Science project
 
-How do you start a 'Data Science' project? Why do you need to make your project a 'Data Science' project? What makes your project a 'Data Science' project? For Any kind of project you start, your project would need a data. For example, if you would like to start a project of making 
+How do you start a 'Data Science' project? Why do you need to make your project a 'Data Science' project? What makes your project a 'Data Science' project? For Any kind of project you start, your project would need a data. For example, if you would like to start a project of making ~~ Data- Information- Knowledge- Wisdom
