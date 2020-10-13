@@ -20,7 +20,7 @@ You would need a data of what kind of car models were successful in the past, a 
 
 So, what makes your project a 'Data Science' project? As I mentioned, data itself does not tell you anyting. Data itself, just shows what is there, in other words, facts. For example, let's say, you have a set of data about heights of mothers and daughters. 
 
-![Image2_README](https://user-images.githubusercontent.com/35958537/95828460-a1bff000-0cfa-11eb-92d5-9fb1075e531c.png)
+![Image2_README](https://user-images.githubusercontent.com/35958537/95828883-2579dc80-0cfb-11eb-9be4-e6274b0e0988.png)
 
 This 
 Information- Knowledge- Wisdom
