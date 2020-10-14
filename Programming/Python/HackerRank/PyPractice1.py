@@ -2,7 +2,7 @@
 my_string = "Hello, World!"
 print(my_string)
 
-###2. If-Else
+### 2. If-Else
 if __name__ == '__main__':
     n = int(input().strip())
     if n % 2 == 1 :
