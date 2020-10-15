@@ -29,5 +29,5 @@ We need data science to make valid, objective inferences from data, free from hu
 
 I hope these reasons have intrigued you enough to start your data science project. So, how do you start a data science project? Follow through the notebook files I created for each chapters and find out!
 
-- [I. Define the Problem](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/I.%20Define%20the%20Problem.ipynb)
-- [II. Acquiring Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/II.%20Acquiring%20Data.ipynb)
+- [I. Define the Problem](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/I.%20Define%20the%20Problem/I.%20Define%20the%20Problem.ipynb)
+- [II. Acquiring Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/II.%20Acquiring%20Data/II.%20Acquiring%20Data.ipynb)
