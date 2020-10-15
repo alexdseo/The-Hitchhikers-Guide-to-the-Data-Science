@@ -27,6 +27,8 @@ This set of data literally tells you nothing but the facts about heights of moth
 Okay, learning new knowledge and gaining wisdom from simple facts can be cool and all, but why should I make my project a 'Data Science' project? WIth the data you have 
 We need data science to make valid, objective inferences from data, free from human bias. To make quicker and better decisions for right situation and for right people. To bring out your data's full potential and make your imagination come true + find more opportunities.
 
+![Image3_README](https://user-images.githubusercontent.com/35958537/96086318-c5647100-0e87-11eb-8a58-4976e1e97b03.jpg)
+
 I hope these reasons have intrigued you enough to start your data science project. So, how do you start a data science project? Follow through the notebook files I created for each chapters and find out!
 
 - [I. Define the Problem](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/I.%20Define%20the%20Problem/I.%20Define%20the%20Problem.ipynb)
