@@ -32,3 +32,12 @@ I hope these reasons have intrigued you enough to start your own data science pr
 
 - [I. Define the Problem](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/I.%20Define%20the%20Problem/I.%20Define%20the%20Problem.ipynb)
 - [II. Acquiring Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/II.%20Acquiring%20Data/II.%20Acquiring%20Data.ipynb)
+- [III. Understanding the Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/III.%20Understanding%20the%20Data/III.%20Understanding%20the%20Data.ipynb)
+  - [Data Structures and Parameters](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/III.%20Understanding%20the%20Data/Data%20Structures%20and%20Parameters/Data%20Structures%20and%20Parameters.ipynb)
+  - [Linear Algebra](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/III.%20Understanding%20the%20Data/Linear%20Algebra/Linear%20Algebra.ipynb)
+  - [Probability and Inference](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/III.%20Understanding%20the%20Data/Probability%20and%20Inference/Probability%20and%20Inference.ipynb)
+  - [Statistical Testing](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/III.%20Understanding%20the%20Data/Statistical%20Testing/Statistical%20Testing.ipynb)
+  - [Stochastic Processes](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/III.%20Understanding%20the%20Data/Stochastic%20Processes/Stochastic%20Processes.ipynb)
+- [IV. Preprocessing the Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/IV.%20Preprocessing%20the%20Data/IV.%20Preprocessing%20the%20Data.ipynb)
+- [V. Exploring the Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/V.%20Exploring%20the%20Data/V.%20Exploring%20the%20Data.ipynb)
+
