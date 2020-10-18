@@ -40,4 +40,10 @@ I hope these reasons have intrigued you enough to start your own data science pr
   - [Stochastic Processes](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/III.%20Understanding%20the%20Data/Stochastic%20Processes/Stochastic%20Processes.ipynb)
 - [IV. Preprocessing the Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/IV.%20Preprocessing%20the%20Data/IV.%20Preprocessing%20the%20Data.ipynb)
 - [V. Exploring the Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/V.%20Exploring%20the%20Data/V.%20Exploring%20the%20Data.ipynb)
+- [VI. Statistical Modeling (1)](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/VI.%20Statistical%20Modeling%20(1)/VI.%20Statistical%20Modeling%20(1).ipynb)
+- [VII. Statistical Modeling (2)](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/VII.%20Statistical%20Modeling%20(2)/VII.%20Statistical%20Modeling%20(2).ipynb)
+- [VIII. Statistical Modeling (3)](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/VIII.%20Statistical%20Modeling%20(3)/VIII.%20Statistical%20Modeling%20(3).ipynb)
+- [IX. Data Visualization](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/IX.%20Data%20Visualization/IX.%20Data%20Visualization.ipynb)
+- [X. Interpretation and Automation](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/X.%20Interpretation%20and%20Automation/X.%20Interpretation%20and%20Automation.ipynb)
+
 
