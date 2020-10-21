@@ -31,6 +31,7 @@ Okay, learning new knowledge and gaining wisdom from simple facts can be cool an
 I hope these reasons have intrigued you enough to start your own data science project. So, how do you start a data science project? Follow through the notebook files I created for each chapters and find out!
 
 - [I. Define the Problem](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/I.%20Define%20the%20Problem/I.%20Define%20the%20Problem.ipynb)
+  - [Setting Project Workflow and Pipelines](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/I.%20Define%20the%20Problem/Setting%20Project%20Workflow%20and%20Pipelines/Setting%20Project%20Workflow%20and%20Pipelines.ipynb)
 - [II. Acquiring Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/II.%20Acquiring%20Data/II.%20Acquiring%20Data.ipynb)
 - [III. Understanding the Data](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/III.%20Understanding%20the%20Data/III.%20Understanding%20the%20Data.ipynb)
   - [Data Structures and Parameters](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/III.%20Understanding%20the%20Data/Data%20Structures%20and%20Parameters/Data%20Structures%20and%20Parameters.ipynb)
