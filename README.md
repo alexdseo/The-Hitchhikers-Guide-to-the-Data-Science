@@ -44,6 +44,6 @@ I hope these reasons have intrigued you enough to start your own data science pr
 - [VII. Statistical Modeling (2)](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/VII.%20Statistical%20Modeling%20(2)/VII.%20Statistical%20Modeling%20(2).ipynb)
 - [VIII. Statistical Modeling (3)](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/VIII.%20Statistical%20Modeling%20(3)/VIII.%20Statistical%20Modeling%20(3).ipynb)
 - [IX. Data Visualization](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/IX.%20Data%20Visualization/IX.%20Data%20Visualization.ipynb)
-- [X. Interpretation and Automation](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/X.%20Interpretation%20and%20Automation/X.%20Interpretation%20and%20Automation.ipynb)
+- [X. Interpretation, Optimization and Automation](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/X.%20Interpretation%2C%20Optimization%20and%20Automation/X.%20Interpretation%2C%20Optimization%20and%20Automation.ipynb)
 
 
