@@ -48,3 +48,8 @@ I hope these reasons have intrigued you enough to start your own data science pr
 - [X. Interpretation, Optimization and Automation](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/blob/master/X.%20Interpretation%2C%20Optimization%20and%20Automation/X.%20Interpretation%2C%20Optimization%20and%20Automation.ipynb)
 
 
+Additionally, Data Scientist needs to know what is the recent trend on Machine Learning and Artificial Intelligence field. Check out what's new on the field at:
+- [New Topics](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/tree/master/New%20Topics)
+
+Also, good Data Scientist must know how to use multiple programming languages to excel on their jobs. Learn programming languages like Python, SQL, R and more at:
+- [Programming](https://github.com/alexdseo/The-Hitchhikers-Guide-to-the-Data-Science/tree/master/Programming)
