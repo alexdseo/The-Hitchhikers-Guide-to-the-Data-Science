@@ -3,5 +3,5 @@
 Learn new topics on Data Science and Artificial Intelligence every week!\
 All new topics are learned through seminars for PhD students and Researchers at UW-Madison.
 
-These semninars are hosted from seminar groups within the university including:\
+These seminars are hosted from seminar groups within the university including:\
 SILO, HAMLET, Statistics Department and more!
