@@ -11,5 +11,4 @@ if __name__ == '__main__':
     print("{:.2f}".format(sum(student_marks[query_name])/len(student_marks[query_name])))
 
 ## 12. Lists
-if __name__ == '__main__':
-    
+#if __name__ == '__main__':
