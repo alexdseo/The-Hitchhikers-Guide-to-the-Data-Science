@@ -5,7 +5,7 @@
 .vscode
 
 #vscode
-/.idea
+.idea
 
 #store
 .DS_Store
