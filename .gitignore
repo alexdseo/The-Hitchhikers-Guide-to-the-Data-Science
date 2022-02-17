@@ -6,3 +6,6 @@
 
 #vscode
 /.idea
+
+#store
+.DS_Store
